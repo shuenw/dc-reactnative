@@ -34,6 +34,7 @@ const Container = styled.View`
 const Cover = styled.View`
   width: 100%;
   height: 200px;
+  border-top-right-radius: 14px;
   border-top-left-radius: 14px;
   overflow: hidden;
 `;
