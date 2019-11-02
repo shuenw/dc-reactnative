@@ -42,9 +42,6 @@ const Cover = styled.View`
 const Image = styled.Image`
   width: 100%;
   height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
 `;
 
 const Title = styled.Text`
@@ -54,6 +51,9 @@ const Title = styled.Text`
   margin-top: 20px;
   margin-left: 20px;
   width: 170px;
+  position: absolute;
+  top: 0;
+  left: 0;
 `;
 
 const Content = styled.View`
